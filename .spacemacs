@@ -37,7 +37,7 @@ values."
      ;; spell-checking
      ;; syntax-checking
      version-control
-     (clojure :variables clojure-enable-fancify-symbols t)
+     clojure
      themes-megapack
      ansible
      dockerfile
